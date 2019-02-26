@@ -1,1 +1,3 @@
 # adhiadhi
+Studying MCA
+SNGCE
